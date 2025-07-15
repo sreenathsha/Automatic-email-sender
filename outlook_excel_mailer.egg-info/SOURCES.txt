@@ -1,0 +1,7 @@
+setup.py
+outlook_excel_mailer.egg-info/PKG-INFO
+outlook_excel_mailer.egg-info/SOURCES.txt
+outlook_excel_mailer.egg-info/dependency_links.txt
+outlook_excel_mailer.egg-info/entry_points.txt
+outlook_excel_mailer.egg-info/requires.txt
+outlook_excel_mailer.egg-info/top_level.txt

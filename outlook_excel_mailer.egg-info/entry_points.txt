@@ -1,0 +1,2 @@
+[console_scripts]
+send-mail = main:main
