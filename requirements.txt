@@ -1,7 +1,7 @@
 openpyxl==3.1.2
-pywin32==310
 python-dotenv==1.0.1
-
 gradio
 openpyxl
 pywin32
+streamlit
+pandas
